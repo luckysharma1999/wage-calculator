@@ -1,0 +1,24 @@
+# Node.js backend
+wage-backend/node_modules/
+wage-backend/.env
+wage-backend/logs/
+wage-backend/*.log
+
+# React frontend
+wage-frontend/node_modules/
+wage-frontend/.env
+wage-frontend/build/
+wage-frontend/dist/
+wage-frontend/.cache/
+wage-frontend/.eslintcache
+wage-frontend/coverage/
+
+# OS & IDE artifacts
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Global logs and trash
+*.log
+.trash/
