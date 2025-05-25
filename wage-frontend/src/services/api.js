@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "http://localhost:3000/api/employees",
+  baseURL: "https://wage-calculator-fjir.onrender.com",
 });
 
 export default API;
